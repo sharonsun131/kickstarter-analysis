@@ -19,7 +19,7 @@ The first step is to define the goal which is to find the relationship between f
  
 ### Challenges and Difficulties Encountered
 
-There are two new excel function used in this assignment, YEAR and COUNTIFS. The hint is really helpful. 
+There are two new excel function used in this assignment, YEAR and COUNTIFS. The hint is really helpful. I have trouble uploading picture in README.md, so I watched a youtube video regarding how to add picture in the README.md. 
 
 ## Results
 
