@@ -10,6 +10,7 @@ The purpose of this analysis is to know how different campaigns fared in relatio
 ### Analysis of Outcomes Based on Launch Date
 
 The first step is to define the goal which is to find the relationship between launched date and campaign outcomes (successful, failed, and canceled). And then break down the data using function YEAR function, and visualize the data by creating a pivot table and line chart.
+<img width="979" alt="theater outcomes" src="https://user-images.githubusercontent.com/102264298/161413249-6ca758f7-e260-48d4-9457-1fbb7dda29dd.png">
  
 ### Analysis of Outcomes Based on Goals
 
