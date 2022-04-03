@@ -23,14 +23,15 @@ There are two new excel function used in this assignment, YEAR and COUNTIFS. The
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-The month that launched the most successful Kickstarter campaigns in theater is May.
+--The month that launched the most successful Kickstarter campaigns in theater is May.
 
-May, June, July, August and October all had roughly the same number of failed campaigns launched in theaters.
+--May, June, July, August and October all had roughly the same number of failed campaigns launched in theaters.
 
 - What can you conclude about the Outcomes based on Goals?
 
-The goal between 1000 to 4999 has the most successful outcomes for Kickstarter campaigns for plays.  
-The goal less than 1000 has the highest percentage of successful outcomes in the subcategory of plays. However, 45000-49999 has the lowest percentage of successful outcomes
+--The goal between 1000 to 4999 has the most successful outcomes for Kickstarter campaigns for plays.  
+
+--The goal less than 1000 has the highest percentage of successful outcomes in the subcategory of plays. However, 45000-49999 has the lowest percentage of successful outcomes
 
 - What are some limitations of this dataset?
 
