@@ -15,7 +15,7 @@ The first step is to define the goal which is to find the relationship between l
 ### Analysis of Outcomes Based on Goals
 
 The first step is to define the goal which is to find the relationship between funding goal amount and the percentage of successful, failed, and canceled plays. And then break down the data by goal amount and percentage of outcomes, and last visualize the data by creating a line chart. 
-<img width="1021" alt="outcome based on goals" src="https://user-images.githubusercontent.com/102264298/161413340-47f00761-14a7-4d64-8306-a8ad427493d7.png">
+<img width="1279" alt="Screen Shot 2022-04-04 at 9 59 18 AM" src="https://user-images.githubusercontent.com/102264298/161573344-c87114b3-f77b-4597-8e3c-64772567474c.png">
  
 ### Challenges and Difficulties Encountered
 
